@@ -1,2 +1,2 @@
-# lightbing-design-
+# lightning-design-
 Support
